@@ -22,8 +22,8 @@
 
 ## How to test
 1. prepare your test datasets. (Most of them are collected in [RGBD-SOD survey](https://github.com/taozh2017/RGBD-SODsurvey))
-2. set your paths in ``test_cross.py``. (One image demo: ``test_cross_demo.py``)
-3. run ``test_cross.py``.
+3. download the **model** from [baiduyun](https://pan.baidu.com/s/1WssiPgaJcZ02AI3OoEuF4w),(fetch code: peng) and put in the root dir
+4. run ``test_cross.py``.
 
 
 ## How to visualize feature maps
